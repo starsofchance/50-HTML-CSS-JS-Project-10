@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 # 50 HTML, CSS, and JS sample project
-## Project 8: Mini Calendar
+## Project 10: Age Project
 
 This is a project for those who have a hard time celebrating their 30th birthday. 
 when you enter your age in the upper box, the program will tell you how old you actually are.
